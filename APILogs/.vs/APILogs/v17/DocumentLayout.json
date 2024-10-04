@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LoveneetChahal\\Projects\\A-POCs\\APILogs 1\\APILogs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8560741D-B340-42C7-9541-D02755C115D0}|APILogs.csproj|c:\\users\\loveneetchahal\\projects\\a-pocs\\apilogs 1\\apilogs\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8560741D-B340-42C7-9541-D02755C115D0}|APILogs.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8560741D-B340-42C7-9541-D02755C115D0}|APILogs.csproj|c:\\users\\loveneetchahal\\projects\\a-pocs\\apilogs 1\\apilogs\\dbcontexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8560741D-B340-42C7-9541-D02755C115D0}|APILogs.csproj|solutionrelative:dbcontexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/APILogsDemo/True/SqlTable/dbo.RequestLogs.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8560741D-B340-42C7-9541-D02755C115D0}|APILogs.csproj|c:\\users\\loveneetchahal\\projects\\a-pocs\\apilogs 1\\apilogs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8560741D-B340-42C7-9541-D02755C115D0}|APILogs.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8560741D-B340-42C7-9541-D02755C115D0}|APILogs.csproj|c:\\users\\loveneetchahal\\projects\\a-pocs\\apilogs 1\\apilogs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8560741D-B340-42C7-9541-D02755C115D0}|APILogs.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\LoveneetChahal\\Projects\\A-POCs\\APILogs 1\\APILogs\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\LoveneetChahal\\Projects\\A-POCs\\APILogs 1\\APILogs\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwFUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T07:03:51.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.RequestLogs [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/APILogsDemo/True/SqlTable/dbo.RequestLogs.sql",
+              "ToolTip": "dbo.RequestLogs [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-04T07:02:14.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LoveneetChahal\\Projects\\A-POCs\\APILogs 1\\APILogs\\DbContexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DbContexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\LoveneetChahal\\Projects\\A-POCs\\APILogs 1\\APILogs\\DbContexts\\AppDbContext.cs",
+              "RelativeToolTip": "DbContexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA2wAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T07:01:03.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LoveneetChahal\\Projects\\A-POCs\\APILogs 1\\APILogs\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\LoveneetChahal\\Projects\\A-POCs\\APILogs 1\\APILogs\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-04T07:00:27.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LoveneetChahal\\Projects\\A-POCs\\APILogs 1\\APILogs\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\LoveneetChahal\\Projects\\A-POCs\\APILogs 1\\APILogs\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:59:48.389Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
